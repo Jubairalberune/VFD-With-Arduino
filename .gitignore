@@ -1,0 +1,36 @@
+# Arduino
+*.ino.hex
+*.ino.with_bootloader.hex
+*.ino.preprocessed
+*.ino.cpp
+*.elf
+*.eep
+
+# Proteus
+*.pdsbak
+*.pdsprj.*
+*.lyt
+*.bkp
+*.DBK
+*.BAK
+
+# Windows
+Thumbs.db
+*.exe
+*.dll
+*.log
+*.suo
+*.user
+
+# Mac
+.DS_Store
+._*
+*.swp
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Linux
+*.tmp
+*~
