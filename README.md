@@ -56,6 +56,8 @@ Imagine you have a powerful 3-phase motor, but you need it to spin at different 
 
 *Click the image above to watch the full tutorial on YouTube!*
 
+![Schematic](docs/images/schematic.svg)
+
 </div>
 
 ---
