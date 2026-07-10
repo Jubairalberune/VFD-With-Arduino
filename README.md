@@ -1,4 +1,4 @@
-#⚡ Three-Phase Variable Frequency Drive (VFD) with Arduino
+# ⚡ Three-Phase Variable Frequency Drive (VFD) with Arduino
 
 > *A perfectly working, simulation-verified, open-source VFD that controls 3-phase induction motors using Arduino, IR2110 gate drivers, and six-step commutation.*
 
