@@ -52,6 +52,11 @@ Imagine you have a powerful 3-phase motor, but you need it to spin at different 
 
 <div align="center">
 
+### 📹 Original Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/b0kbwg2XOtQ/0.jpg)](https://www.youtube.com/watch?v=b0kbwg2XOtQ)
+
+
 [![Watch the video](https://img.youtube.com/vi/b0kbwg2XOtQ/0.jpg)](https://www.youtube.com/watch?v=b0kbwg2XOtQ)
 
 *Click the image above to watch the full tutorial on YouTube!*
