@@ -56,7 +56,7 @@ Imagine you have a powerful 3-phase motor, but you need it to spin at different 
 
 *Watch the Proteus simulation running perfectly – motor spinning, speed control working, and all waveforms visible!*
 
-https://github.com/Jubairalberune/VFD-With-Arduino/tree/main/docs/videos/vfd_simulation_demo.mp4
+[![Watch the video](https://img.youtube.com/vi/b0kbwg2XOtQ/0.jpg)](https://youtu.be/zSd32QlrCMk)
 
 ### 📹 Original Tutorial
 
