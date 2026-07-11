@@ -56,7 +56,7 @@ Imagine you have a powerful 3-phase motor, but you need it to spin at different 
 
 *Watch the Proteus simulation running perfectly – motor spinning, speed control working, and all waveforms visible!*
 
-[![Watch the video](https://img.youtube.com/vi/b0kbwg2XOtQ/0.jpg)](https://www.youtube.com/watch?v=zSd32QlrCMk)
+[![Watch the video](https://img.youtube.com/vi/zSd32QlrCMk/0.jpg)](https://www.youtube.com/watch?v=zSd32QlrCMk)
 
 ### 📹 Original Tutorial
 
