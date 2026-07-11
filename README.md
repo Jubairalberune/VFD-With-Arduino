@@ -603,8 +603,8 @@ If you found this project helpful, please give it a star ⭐ on GitHub!
 | Platform | Link |
 |:---|:---|
 | **GitHub** | [github.com/Jubairalberune](https://github.com/Jubairalberune) |
-| **YouTube** | [youtube.com/@yourchannel](https://youtube.com) |
-| **Email** | [your.email@example.com](mailto:your.email@example.com) |
+| **YouTube** | [youtube.com/@jubairalberune](https://youtube.com) |
+| **Email** | [jubairab@gamil.com](mailto:jubairab@gmail.com) |
 
 ---
 
